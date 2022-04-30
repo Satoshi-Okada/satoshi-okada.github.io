@@ -85,9 +85,9 @@ author:
   bio              : "Ph.D student of The University of Tokyo."
   location         : "Tokyo, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.jp/citations?hl=ja&user=064WyvEAAAAJ"
-  email            : "okada(at)hal.ipc.i.u-tokyo.ac.jp"
+  email            : "okada@hal.ipc.i.u-tokyo.ac.jp"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/h1_m7_n4m3_i5"
+  twitter          : "h1_m7_n4m3_i5"
   vine             :
   weibo            :
   xing             :
