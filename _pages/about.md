@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Satoshi Okada (岡田 怜士)"
+title: "Satoshi Okada"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
