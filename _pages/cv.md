@@ -38,30 +38,15 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+  
 Skills
 ======
 * Computer Skills: C/C++, Python Programming, Verilog HDL
   * Qualification: Applied Information Technology Engineer Examination (Sept. 2018)
 * Language Skills: Japanese (Native Speaker), English
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* The Dean's Award of the Graduate School of Information Science and Technology 2021 ([link](https://www.i.u-tokyo.ac.jp/news/topics/2022/202203291996_e.shtml) [,certificate](https://drive.google.com/file/d/1eoMm52v1lcMn1rp00no2AJo7eglNjwYk/view?usp=sharing))
+* IEEE International Conference on Computing (ICOCO 2021) Best Paper Award ([certificate][https://drive.google.com/file/d/1oHUZronXfBRfpRGQ9DjQTKgyU84iZ8Wp/view?usp=sharing]
