@@ -7,14 +7,24 @@ redirect_from:
   - /resume
 ---
 
+<h1 align="center">Satoshi Okada</h1>
+<p 
+align="center"> 
+<a href="mailto:okada@hal.ipc.u-tokyo.ac.jp?Subject=From%20github%20page" target="_top">okada@hal.ipc.u-tokyo.ac.jp</a> 
+<br>
+<a href="https://satoshi-okada.github.io">satoshi-okada.github.io</a> 
+</p>
+
 {% include base_path %}
 
 Education
 ======
-* B.S. Mathematical Engineering and Information Physics, The University of Tokyo. Apr. 2016 – Mar. 2020
-* M.S. Information Science and Technology, the University of Tokyo. Apr. 2020 – Mar. 2022
-* Ph.D Information Science and Technology, the University of Tokyo. Apr. 2022 -
-
+* B.S. Mathematical Engineering and Information Physics, The University of Tokyo. 
+ <div style="text-align: right;">Apr. 2016 – Mar. 2020</div>
+* M.S. Information Science and Technology, the University of Tokyo. 
+ <div style="text-align: right;">Apr. 2020 – Mar. 2022</div>
+* Ph.D Information Science and Technology, the University of Tokyo. 
+ <div style="text-align: right;">Apr. 2022 -</div>
 
 Work experience
 ======
