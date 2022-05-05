@@ -28,15 +28,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Apr. 2016 - Sep. 2020 Research Assistant at the University of Tokyo
+* Sep. 2020 - Oct. 2020 Research Intern at NTT Laboratory
+* Apr. 2020 - Aug. 2021 Teaching Assistant at the University of Tokyo
+* Oct. 2020 - Mar. 2021 Research Assistant at Toyo University
+* Apr. 2021 -           Project Researcher at Toyo University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
   
 Skills
 ======
