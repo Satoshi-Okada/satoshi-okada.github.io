@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.co.jp/citations?hl=ja&user=064WyvEAAAAJ">my Google Scholar profile</a>.
 
 ## International Conferences (Peer-reviewed)
-* **<u>Satoshi Okada</u>**, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, "LDoS Attacker Detection Algorithms in Zigbee Network," International Conferences on Internet of Things (iThings), IEEE, pp.43-50, 2021.
+* **<u>Satoshi Okada</u>**, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, "LDoS Attacker Detection Algorithms in Zigbee Network," International Conferences on Internet of Things (iThings), IEEE, pp.43-50, 2021.
 
 * Takuho Mitsunaga, Yoshiki Fujiwara, **<u>Satoshi Okada</u>**, "Proposal for Realization and Improvement of DX in Municipal Services Based on Digital Business Models," International Conference on Computing (ICOCO), IEEE, pp.158-162, 2021.
 
