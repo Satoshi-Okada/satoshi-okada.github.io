@@ -24,15 +24,15 @@ Education
 * M.S. Information Science and Technology, the University of Tokyo. 
  <div style="text-align: right;">Apr. 2020 – Mar. 2022</div>
 * Ph.D Information Science and Technology, the University of Tokyo. 
- <div style="text-align: right;">Apr. 2022 -</div>
+ <div style="text-align: right;">Apr. 2022 - present</div>
 
 Work experience
 ======
-* Apr. 2016 - Sep. 2020 Research Assistant at the University of Tokyo
-* Sep. 2020 - Oct. 2020 Research Intern at NTT Laboratory
-* Apr. 2020 - Aug. 2021 Teaching Assistant at the University of Tokyo
-* Oct. 2020 - Mar. 2021 Research Assistant at Toyo University
-* Apr. 2021 -           Project Researcher at Toyo University
+* Apr. 2016 - Sep. 2020: Research Assistant at the University of Tokyo
+* Summer 2020: Research Intern at NTT Laboratory
+* Apr. 2020 - Aug. 2021: Teaching Assistant at the University of Tokyo
+* Oct. 2020 - Mar. 2021: Research Assistant at Toyo University
+* Apr. 2021 - present:         Project Researcher at Toyo University
 
   
 Skills
