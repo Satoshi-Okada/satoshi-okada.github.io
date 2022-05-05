@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Talks"
 permalink: /publications/
 author_profile: true
 ---
@@ -32,3 +32,5 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 
 ## Books:
 * Saho Kobayashi, **<u>Satoshi Okada</u>**, Yu Asabe, Takuho Mitsunaga"はじめて学ぶバイナリ解析 不正なコードからコンピュータを守るサイバーセキュリティ技術", Impress R&D, ISBN: 9784844378495, 2020. ([link](https://www.amazon.co.jp/dp/B084R85269/ref=cm_sw_r_cp_awdb_c_zz0tEb5B5D8M4))
+
+
