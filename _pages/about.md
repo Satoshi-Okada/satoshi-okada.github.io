@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Satoshi Okada is a Ph.D student of [Nakamura-Takase Lab](http://www.hal.ipc.i.u-tokyo.ac.jp/) at the University of Tokyo.
+I'm a Ph.D student of [Nakamura-Takase Lab](http://www.hal.ipc.i.u-tokyo.ac.jp/) at the University of Tokyo.
 
-His research interest is Cybersecurity (especially, IoT security and Post-quantum Cryptography) and Digital Transformation (DX).
-Please feel free to reach out to me to talk about topics related to my interests.
+My research interest is Cybersecurity (especially, IoT security and Post-quantum Cryptography) and Digital Transformation (DX).
+Please feel free to reach out to me to talk about topics related to my interests!
