@@ -34,3 +34,6 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 * Saho Kobayashi, **<u>Satoshi Okada</u>**, Yu Asabe, Takuho Mitsunaga"はじめて学ぶバイナリ解析 不正なコードからコンピュータを守るサイバーセキュリティ技術", Impress R&D, ISBN: 9784844378495, 2020. ([link](https://www.amazon.co.jp/dp/B084R85269/ref=cm_sw_r_cp_awdb_c_zz0tEb5B5D8M4))
 
 
+## Talks:
+* **<u>岡田 怜士</u>**, 招待公演 "Misuseシナリオにおける格子暗号への秘密鍵・乱数復元攻撃", 共同利用・ワークショップ「新世代暗号の設計・評価」, 九州大学マス・フォア・インダストリ研究所 IMI, Oct. 2021. ([link](https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/31))
+* **<u>Satoshi Okada</u>**, "Advanced Security Operation Technologies in the era of cyber-physical convergence", 6th Franco-Japanese Cybersecurity Workshop, Apr. 2022([link](https://project.inria.fr/FranceJapanICST/save-the-date-6th-franco-japanese-cybersecurity-workshop-online-april-20-22/))
