@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## International Conferences (Peer-reviewed)
-<u>**Satoshi Okada**</u>, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, and Hiroshi Nakamura, "LDoS Attacker Detection Algorithms in Zigbee Network," International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics), IEEE, pp.43-50, 2021
+**<u>Satoshi Okada</u>**, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, and Hiroshi Nakamura, "LDoS Attacker Detection Algorithms in Zigbee Network," International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics), IEEE, pp.43-50, 2021
 
 Takuho Mitsunaga, Yoshiki Fujiwara, and <u>**Satoshi Okada**</u>, "Proposal for Realization and Improvement of DX in Municipal Services Based on Digital Business Models," International Conference on Computing (ICOCO), IEEE, pp.158-162, 2021
 
