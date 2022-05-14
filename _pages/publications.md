@@ -14,7 +14,7 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 
 * **<u>Satoshi Okada</u>**, Mariko Fujimoto, Wataru Matsuda, Takuho Mitsunaga, "Malware Detection Method using Tree-based Machine Learning Algorithms," 2021 IEEE International Conference on Computing (ICOCO), IEEE, pp.103-108, 2021.
 
-* **<u>Satoshi Okada</u>**, Yoshiki Fujiwara, Mariko Fujimoto, Wataru Matsuda, Takuho Mitsunaga, "Efficient Incident Response System on Shared Cyber Threat Information Using SDN and STIX," 2021 IEEE International Conference on Computing (ICOCO), IEEE, pp.109-114, 2021. **Honorable mention for best paper award.**
+* **<u>Satoshi Okada</u>**, Yoshiki Fujiwara, Mariko Fujimoto, Wataru Matsuda, Takuho Mitsunaga, "Efficient Incident Response System on Shared Cyber Threat Information Using SDN and STIX," 2021 IEEE International Conference on Computing (ICOCO), IEEE, pp.109-114, 2021. **Best paper award.**
 
 * **<u>Satoshi Okada</u>**, Yuntao Wang, "Recovery Attack on Bob’s Reused Randomness in CRYSTALS-KYBER and SABER," The 15th International Conference on Provable and Practical Security (ProvSec 2021), Springer LNCS, Vol. 13059, pp. 155-173, 2021.
 
