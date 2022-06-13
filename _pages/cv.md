@@ -19,12 +19,12 @@ align="center">
 
 Education
 ======
-* B.S. Mathematical Engineering and Information Physics, The University of Tokyo. 
- <div style="text-align: right;">Apr. 2016 – Mar. 2020</div>
+*  Ph.D Information Science and Technology, the University of Tokyo. 
+ <div style="text-align: right;">Apr. 2022 - present</div>
 * M.S. Information Science and Technology, the University of Tokyo. 
  <div style="text-align: right;">Apr. 2020 – Mar. 2022</div>
-* Ph.D Information Science and Technology, the University of Tokyo. 
- <div style="text-align: right;">Apr. 2022 - present</div>
+* B.S. Mathematical Engineering and Information Physics, The University of Tokyo. 
+ <div style="text-align: right;">Apr. 2016 – Mar. 2020</div>
 
 Work experience
 ======
