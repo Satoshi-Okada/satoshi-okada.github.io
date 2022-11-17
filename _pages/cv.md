@@ -28,11 +28,11 @@ Education
 
 Work experience
 ======
-* Apr. 2021 - present:         Project Researcher at Toyo University
-* Oct. 2020 - Mar. 2021: Research Assistant at Toyo University
-* Apr. 2020 - Aug. 2021: Teaching Assistant at the University of Tokyo
-* Summer 2020: Research Intern at NTT Laboratory
-* Apr. 2016 - Sep. 2020: Research Assistant at the University of Tokyo
+* Project Researcher at Toyo University (Apr. 2021 - )
+* Research Assistant at Toyo University (Oct. 2020 - Mar. 2021)
+* Teaching Assistant at the University of Tokyo (Apr. 2020 - Aug. 2021)
+* Research Intern at NTT Laboratory (Summer 2020)
+* Research Assistant at the University of Tokyo (Apr. 2016 - Sep. 2020)
 
   
 Skills
