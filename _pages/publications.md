@@ -38,3 +38,5 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 * **<u>Satoshi Okada</u>**, "Advanced Security Operation Technologies in the era of cyber-physical convergence", [6th Franco-Japanese Cybersecurity Workshop](https://project.inria.fr/FranceJapanICST/save-the-date-6th-franco-japanese-cybersecurity-workshop-online-april-20-22/), Apr. 2022. 
 * **<u>岡田 怜士</u>**, 招待公演 "Misuseシナリオにおける格子暗号への秘密鍵・乱数復元攻撃", [共同利用・ワークショップ「新世代暗号の設計・評価」]([https://joint.imi.kyushu-u.ac.jp/post-1230/](https://joint.imi.kyushu-u.ac.jp/post-1230/)), 九州大学マス・フォア・インダストリ研究所 IMI, Oct. 2021.
 
+## Others
+* JNSA ([Japan Network Security Association](https://www.jnsa.org/)) e-zine ("[Blackhat USA 2022/DEF CON 30](https://www.jnsa.org/aboutus/jnsaml/ml_bk250.html)"), Nov. 2022.
