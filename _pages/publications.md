@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.co.jp/citations?hl=ja&user=064WyvEAAAAJ">my Google Scholar profile</a>.
 
 ## International Conferences (Peer-reviewed)
-* Koshi Ishide, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "ML Detection Method for Malicious Operation in Hybrid Zero Trust Architecture," 2022 IEEE International Conference on Computing (ICOCO), IEEE, to appear, 2022.
+* Koshi Ishide, **<u>Satoshi Okada</u>**, Mariko Fujimoto, Takuho Mitsunaga, "ML Detection Method for Malicious Operation in Hybrid Zero Trust Architecture," 2022 IEEE International Conference on Computing (ICOCO), IEEE, to appear, 2022.
 
 
 * Tomoya Oshio, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Machine Learning-based Anomaly Detection in ZigBee Networks," 2022 IEEE International Conference on Computing (ICOCO), IEEE, to appear, 2022.
