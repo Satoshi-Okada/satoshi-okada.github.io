@@ -38,7 +38,9 @@ Work experience
 Skills
 ======
 * Computer Skills: C/C++, Python Programming, Verilog HDL
-  * Qualification: Applied Information Technology Engineer Examination (Sept. 2018)
+* Qualifications
+  * Applied Information Technology Engineer Examination (Sept. 2018)
+  * Registered Information Security Specialist (Sept, 2022)
 * Language Skills: Japanese (Native Speaker), English
 
   
