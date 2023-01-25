@@ -47,7 +47,7 @@ Skills
 Awards
 ======
 * IEEE International Conference on Computing (ICOCO 2022) Best Paper Award ([press](https://www.toyo.ac.jp/news/academics/faculty/iniad/20221205_mitsunaga/), [certificate](https://drive.google.com/file/d/1pLn_fmFZiTvTeLx4KKrOQIeks4-obpdn/view?usp=sharing))
-* The Dean's Award of the Graduate School of Information Science and Technology 2021 ([link](https://www.i.u-tokyo.ac.jp/news/topics/2022/202203291996_e.shtml), [certificate](https://drive.google.com/file/d/1eoMm52v1lcMn1rp00no2AJo7eglNjwYk/view?usp=sharing))
+* The Dean's Award of the Graduate School of Information Science and Technology 2021, The University of Tokyo ([link](https://www.i.u-tokyo.ac.jp/news/topics/2022/202203291996_e.shtml), [certificate](https://drive.google.com/file/d/1eoMm52v1lcMn1rp00no2AJo7eglNjwYk/view?usp=sharing))
 * IEEE International Conference on Computing (ICOCO 2021) Best Paper Award ([certificate](https://drive.google.com/file/d/1oHUZronXfBRfpRGQ9DjQTKgyU84iZ8Wp/view?usp=sharing))
 
 ※Google Docs version is [here](https://docs.google.com/document/d/1Mvuw-wWkRhpoLjNGpZQyfvHkmiwb60h2BmJndrPycsM/edit?usp=sharing).
