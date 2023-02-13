@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.co.jp/citations?hl=ja&user=064WyvEAAAAJ">my Google Scholar profile</a>.
 
 ## Journal (Peer-reviewed)
-* Satoshi Okada, Nobuho Hashimoto, Takuho Mitsuanga, "Efficient matching algorithms between logs and indicators for automatic incident response system," Journal of Information Processing (JIP), to appear, 2023 
+* **<u>Satoshi Okada</u>**, Nobuho Hashimoto, Takuho Mitsuanga, "Efficient matching algorithms between logs and indicators for automatic incident response system," Journal of Information Processing (JIP), to appear, 2023 
 
 ## International Conferences (Peer-reviewed)
 * Koshi Ishide, **<u>Satoshi Okada</u>**, Mariko Fujimoto, Takuho Mitsunaga, "ML Detection Method for Malicious Operation in Hybrid Zero Trust Architecture," 2022 IEEE International Conference on Computing (ICOCO), IEEE, pp.264-269, 2022.
