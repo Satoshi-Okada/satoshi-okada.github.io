@@ -19,7 +19,7 @@ align="center">
 
 Education
 ======
-* Ph.D Information Science and Technology, the University of Tokyo. 
+* Ph.D. Information Science and Technology, the University of Tokyo. 
  <div style="text-align: right;">Apr. 2022 - </div>
 * M.S. Information Science and Technology, the University of Tokyo. 
  <div style="text-align: right;">Apr. 2020 – Mar. 2022</div>
