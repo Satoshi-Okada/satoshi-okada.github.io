@@ -10,7 +10,7 @@ redirect_from:
 <h1 align="center">Satoshi Okada</h1>
 <p 
 align="center"> 
-<a href="mailto:okada@hal.ipc.u-tokyo.ac.jp?Subject=From%20github%20page" target="_top">okada@hal.ipc.u-tokyo.ac.jp</a> 
+<a href="mailto:	okada@hal.ipc.i.u-tokyo.ac.jp?Subject=From%20github%20page" target="_top">okada@hal.ipc.u-tokyo.ac.jp</a> 
 <br>
 <a href="https://satoshi-okada.github.io">satoshi-okada.github.io</a> 
 </p>
