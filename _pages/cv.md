@@ -53,6 +53,6 @@ Awards
 
 Scholarships and Grants
 ======
-* JSPS Overseas Challenge Program for Young Researchers([link](https://www.jsps.go.jp/english/e-abc/index.html)) (Apr. 2023 - Sep. 2023)
+* JSPS Overseas Challenge Program for Young Researchers ([link](https://www.jsps.go.jp/english/e-abc/index.html)) (Apr. 2023 - Sep. 2023)
 
 ※Google Docs version is [here](https://docs.google.com/document/d/1Mvuw-wWkRhpoLjNGpZQyfvHkmiwb60h2BmJndrPycsM/edit?usp=sharing).
