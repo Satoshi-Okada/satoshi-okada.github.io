@@ -23,7 +23,7 @@ Education
  <div style="text-align: right;">Apr. 2022 - </div>
 * M.S. Information Science and Technology, the University of Tokyo. 
  <div style="text-align: right;">Apr. 2020 – Mar. 2022</div>
-* B.S. Mathematical Engineering and Information Physics, The University of Tokyo. 
+* B.S. Mathematical Engineering and Information Physics, the University of Tokyo. 
  <div style="text-align: right;">Apr. 2016 – Mar. 2020</div>
 
 Work experience
