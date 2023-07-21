@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.co.jp/citations?hl=ja&user=064WyvEAAAAJ">my Google Scholar profile</a>.
 
 ## Journals (Peer-reviewed)
-* **<u>Satoshi Okada</u>**, Nobuho Hashimoto, Takuho Mitsuanga, "Efficient matching algorithms between logs and indicators for automatic incident response system," Journal of Information Processing 31, pp.279-287, 2023.
+* **<u>Satoshi Okada</u>**, Nobuho Hashimoto, Takuho Mitsuanga, "Efficient Matching Algorithms between Logs and Indicators for Automatic Incident Response System," Journal of Information Processing 31, pp.279-287, 2023.
 * **<u>Satoshi Okada</u>**, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, "Memory-saving LDoS Attacker Detection Algorithms in Zigbee Network", Journal of Information Processing, to appear, 2023.
 
 ## International Conferences (Peer-reviewed)
