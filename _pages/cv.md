@@ -47,7 +47,7 @@ Skills
   
 Awards
 ======
-* [辻井重男セキュリティ論文賞](https://www.jssm.net/news/7444/), Aug. 2023.
+* 辻井重男セキュリティ論文賞([link](https://www.jssm.net/news/7444/)), Aug. 2023.
 * IEEE International Conference on Computing (ICOCO 2022) Best Paper Award ([press](https://www.toyo.ac.jp/news/academics/faculty/iniad/20221205_mitsunaga/), [certificate](https://drive.google.com/file/d/1pLn_fmFZiTvTeLx4KKrOQIeks4-obpdn/view?usp=sharing)), Nov. 2022.
 * The Dean's Award of the Graduate School of Information Science and Technology, The University of Tokyo 2021 ([link](https://www.i.u-tokyo.ac.jp/news/topics/2022/202203291996_e.shtml), [certificate](https://drive.google.com/file/d/1eoMm52v1lcMn1rp00no2AJo7eglNjwYk/view?usp=sharing)), Mar. 2022.
 * IEEE International Conference on Computing (ICOCO 2021) Best Paper Award ([certificate](https://drive.google.com/file/d/1oHUZronXfBRfpRGQ9DjQTKgyU84iZ8Wp/view?usp=sharing)), Nov. 2021.
