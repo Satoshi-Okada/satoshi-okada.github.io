@@ -8,12 +8,15 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.co.jp/citations?hl=ja&user=064WyvEAAAAJ">my Google Scholar profile</a>.
 
 ## Journals (Peer-reviewed)
+* Masaki Kuwano, Momoka Okuma, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Predicting What the Attacker Might Do Next: ATT&CK Behavior Forecasting by Attacker-based Collaborative Filtering and Graph Databases," Journal of Information Processing, to appear, 2023.
 * **<u>Satoshi Okada</u>**, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, "Memory-saving LDoS Attacker Detection Algorithms in Zigbee Network", Journal of Information Processing, to appear, 2023.
 * **<u>Satoshi Okada</u>**, Nobuho Hashimoto, Takuho Mitsuanga, "Efficient Matching Algorithms between Logs and Indicators for Automatic Incident Response System," Journal of Information Processing 31, pp.279-287, 2023.
 
 
 ## International Conferences (Peer-reviewed)
-* Koshi Ishide, **<u>Satoshi Okada</u>**, Mariko Fujimoto, Takuho Mitsunaga, "ML Detection Method for Malicious Operation in Hybrid Zero Trust Architecture," 2022 IEEE International Conference on Computing (ICOCO), IEEE, pp.264-269, 2022.
+* Konosuke Tamamura, Shun Sakai, Koki Watarai, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Detection of XSS Attacks with One Class SVM Using TF-IDF and Devising a Vectorized Vocabulary," 2023 IEEE International Conference on Computing (ICOCO), IEEE, to appear, 2023.
+
+*   Koshi Ishide, **<u>Satoshi Okada</u>**, Mariko Fujimoto, Takuho Mitsunaga, "ML Detection Method for Malicious Operation in Hybrid Zero Trust Architecture," 2022 IEEE International Conference on Computing (ICOCO), IEEE, pp.264-269, 2022.
 
 * Tomoya Oshio, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Machine Learning-based Anomaly Detection in ZigBee Networks," 2022 IEEE International Conference on Computing (ICOCO), IEEE, pp.259-263, 2022.
 
