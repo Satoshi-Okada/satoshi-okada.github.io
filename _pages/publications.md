@@ -9,7 +9,7 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 
 ## Journals (Peer-reviewed)
 * Masaki Kuwano, Momoka Okuma, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Predicting What the Attacker Might Do Next: ATT&CK Behavior Forecasting by Attacker-based Collaborative Filtering and Graph Databases," Journal of Information Processing, to appear, 2023.
-* **<u>Satoshi Okada</u>**, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, "Memory-saving LDoS Attacker Detection Algorithms in Zigbee Network", Journal of Information Processing, to appear, 2023.
+* **<u>Satoshi Okada</u>**, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, "Memory-saving LDoS Attacker Detection Algorithms in Zigbee Network", Journal of Information Processing 31, pp.537-549, 2023.
 * **<u>Satoshi Okada</u>**, Nobuho Hashimoto, Takuho Mitsuanga, "Efficient Matching Algorithms between Logs and Indicators for Automatic Incident Response System," Journal of Information Processing 31, pp.279-287, 2023.
 
 
