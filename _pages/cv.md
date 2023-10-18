@@ -28,7 +28,7 @@ Education
 
 Work experience
 ======
-* Ph.D. Internship at Télécom SudParis (Apr. 2023 - )
+* Ph.D. Internship at Télécom SudParis (Apr. 2023 - Sep.2023)
 * Project Researcher at Toyo University (Apr. 2021 - )
 * Research Assistant at Toyo University (Oct. 2020 - Mar. 2021)
 * Teaching Assistant at the University of Tokyo (Apr. 2020 - Aug. 2021)
