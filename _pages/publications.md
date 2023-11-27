@@ -14,6 +14,8 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 
 
 ## International Conferences (Peer-reviewed)
+* Momoka Okuma, Koki Watarai, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Automated Mapping Method for Sysmon Logs to ATT&CK Techniques by Leveraging Atomic Red Team", 2022 5th International Conference on Signal Processing and Information Security (ICSPIS). IEEE, to appear, 2022.
+
 * Konosuke Tamamura, Shun Sakai, Koki Watarai, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Detection of XSS Attacks with One Class SVM Using TF-IDF and Devising a Vectorized Vocabulary," 2023 IEEE International Conference on Computing (ICOCO), IEEE, to appear, 2023.
 
 *   Koshi Ishide, **<u>Satoshi Okada</u>**, Mariko Fujimoto, Takuho Mitsunaga, "ML Detection Method for Malicious Operation in Hybrid Zero Trust Architecture," 2022 IEEE International Conference on Computing (ICOCO), IEEE, pp.264-269, 2022.
