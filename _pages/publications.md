@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.co.jp/citations?hl=ja&user=064WyvEAAAAJ">my Google Scholar profile</a>.
 
 ## Journals (Peer-reviewed)
-* Masaki Kuwano, Momoka Okuma, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Predicting What the Attacker Might Do Next: ATT&CK Behavior Forecasting by Attacker-based Collaborative Filtering and Graph Databases," Journal of Information Processing, to appear, 2023.
+* Masaki Kuwano, Momoka Okuma, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "The Attacker Might Do Next : ATT&CK Behavior Forecasting by Attacker-based Collaborative Filtering and Graph Databases," Journal of Information Processing 31, pp.802-811, 2023.
 * **<u>Satoshi Okada</u>**, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, "Memory-saving LDoS Attacker Detection Algorithms in Zigbee Network", Journal of Information Processing 31, pp.537-549, 2023.
 * **<u>Satoshi Okada</u>**, Nobuho Hashimoto, Takuho Mitsuanga, "Efficient Matching Algorithms between Logs and Indicators for Automatic Incident Response System," Journal of Information Processing 31, pp.279-287, 2023.
 
@@ -24,7 +24,7 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 
 * Yosuke Katano, Yukihiro Kozai, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Prediction of Infected Devices Using the Quantification Theory Type 3 Based on MITRE ATT&CK Technique," 2022 IEEE International Conference on Computing (ICOCO), IEEE, pp.198-203, 2022.
 
-* Masaki Kuwano, Momoka Okuma, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "ATT&CK Behavior Forecasting based on Collaborative Filtering and Graph Databases," 2022 IEEE International Conference on Computing (ICOCO), IEEE, pp.191-197,, 2022. **Best paper award.**
+* Masaki Kuwano, Momoka Okuma, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "ATT&CK Behavior Forecasting based on Collaborative Filtering and Graph Databases," 2022 IEEE International Conference on Computing (ICOCO), IEEE, pp.191-197, 2022. **Best paper award.**
 
 * **<u>Satoshi Okada</u>**, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, "LDoS Attacker Detection Algorithms in Zigbee Network," International Conferences on Internet of Things (iThings), IEEE, pp.43-50, 2021.
 
