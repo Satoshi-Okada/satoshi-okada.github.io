@@ -39,7 +39,7 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 
 1. **<u>Satoshi Okada</u>**, Daisuke Miyamoto, Yuji Sekiya, Hiroshi Nakamura, "New LDoS Attack in Zigbee Network and its Possible Countermeasures," International Conference on Smart Computing (SMARTCOMP), IEEE, pp.246-251, 2021.
 
-* **<u>Satoshi Okada</u>**, Yuntao Wang, Tsuyoshi Takagi, "Improving key mismatch attack on NewHope with fewer queries," The 25th Australasian Conference on Information Security and Privacy (ACISP 2020), Springer LNCS, Vol. 12248, pp. 505-524, 2020.
+1. **<u>Satoshi Okada</u>**, Yuntao Wang, Tsuyoshi Takagi, "Improving key mismatch attack on NewHope with fewer queries," The 25th Australasian Conference on Information Security and Privacy (ACISP 2020), Springer LNCS, Vol. 12248, pp. 505-524, 2020.
 
 
 
