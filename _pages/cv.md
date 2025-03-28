@@ -20,7 +20,7 @@ align="center">
 Education
 ======
 * Ph.D. Information Science and Technology, the University of Tokyo. 
- <div style="text-align: right;">Apr. 2022 - </div>
+ <div style="text-align: right;">Apr. 2022 - Mar. 2025</div>
 * M.S. Information Science and Technology, the University of Tokyo. 
  <div style="text-align: right;">Apr. 2020 – Mar. 2022</div>
 * B.S. Mathematical Engineering and Information Physics, the University of Tokyo. 
@@ -29,7 +29,7 @@ Education
 Work experience
 ======
 * Ph.D. Internship at Télécom SudParis (Apr. 2023 - Sep.2023)
-* Project Researcher at Toyo University (Apr. 2021 - )
+* Project Researcher at Toyo University (Apr. 2021 - Mar. 2025)
 * Research Assistant at Toyo University (Oct. 2020 - Mar. 2021)
 * Teaching Assistant at the University of Tokyo (Apr. 2020 - Aug. 2021)
 * Research Intern at NTT Laboratory (Summer 2020)
