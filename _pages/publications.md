@@ -20,9 +20,9 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 
 
 ## International Conferences (Peer-reviewed)
-1. Junichiro Ando, Satoshi Okada, Takuho Mitsunaga, "Jailbreak Attack on a Multi-Agent LLM Defense System," International Congress on Information and Communication Technology, to appear, 2025.
+1. Junichiro Ando, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Jailbreak Attack on a Multi-Agent LLM Defense System," International Congress on Information and Communication Technology, to appear, 2025.
 
-1. Rei Watanabe, Satoshi Okada, Koki Watarai, Takuho Mitsunaga, "Cloud SecNavigator: RAG Approach to Bridge Gaps and Strengthen Cloud Security Practices with RAGAS Assessment," 2024 International Conference on Engineering and Emerging Technologies (ICEET), IEEE, pp. 1-6, 2024.
+1. Rei Watanabe, **<u>Satoshi Okada</u>**, Koki Watarai, Takuho Mitsunaga, "Cloud SecNavigator: RAG Approach to Bridge Gaps and Strengthen Cloud Security Practices with RAGAS Assessment," 2024 International Conference on Engineering and Emerging Technologies (ICEET), IEEE, pp. 1-6, 2024.
 
 1. **<u>Satoshi Okada</u>**, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc, Hiroshi Nakamura, "XAI-driven Adversarial Attacks on Network Intrusion Detectors," Proceedings of the 2024 European Interdisciplinary Cybersecurity Conference, ACM, pp. 65-73, 2024.
 
