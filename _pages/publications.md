@@ -8,9 +8,9 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.co.jp/citations?hl=ja&user=064WyvEAAAAJ">my Google Scholar profile</a>.
 
 ## Journals (Peer-reviewed)
-1. **<u>Satoshi Okada</u>**, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc, Hiroshi Nakamura, "Xai-driven black-box adversarial attacks on network intrusion detectors," International Journal of Information Security, 24, 2025
+1. **<u>Satoshi Okada</u>**, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc, Hiroshi Nakamura, "Xai-driven black-box adversarial attacks on network intrusion detectors," International Journal of Information Security, 24, 2025.
   
-1. **<u>Satoshi Okada</u>**, Yosuke Katano, Yukihiro Kozai, Takuho Mitsunaga, "Predicting and Visualizing Lateral Movements Based on ATT&CK and Quantification Theory Type 3," Journal of Cases on Information Technology (JCIT), 26, pp.1-14, 2024
+1. **<u>Satoshi Okada</u>**, Yosuke Katano, Yukihiro Kozai, Takuho Mitsunaga, "Predicting and Visualizing Lateral Movements Based on ATT&CK and Quantification Theory Type 3," Journal of Cases on Information Technology (JCIT), 26, pp.1-14, 2024.
   
 1. Masaki Kuwano, Momoka Okuma, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "The Attacker Might Do Next : ATT&CK Behavior Forecasting by Attacker-based Collaborative Filtering and Graph Databases," Journal of Information Processing 31, pp.802-811, 2023.
 
@@ -58,9 +58,12 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 
 
 ## List of papers (no peer-reviewed):
-1.藤原 良樹, **<u>岡田 怜士</u>**, 伊藤 優子, 吉倉 昌利, 久住 理紗, 満永 拓邦, “デジタルビジネスモデルに基づく自治体活動のDX実現および改善に関する検討”, 情報処理学会 第83回全国大会, オンライン, 2021.
+1. 藤原 良樹, **<u>岡田 怜士</u>**, 伊藤 優子, 吉倉 昌利, 久住 理紗, 満永 拓邦, “デジタルビジネスモデルに基づく自治体活動のDX実現および改善に関する検討”, 情報処理学会 第83回全国大会, オンライン, 2021.
+
 1. **<u>岡田 怜士</u>**, 宮本 大輔, 関谷 勇司, 中村 宏, “Zigbeeの間接通信を利用したLDoS攻撃とその対策の提案” 電子情報通信学会 ネットワーク研究会, 2021.
+
 1. **<u>岡田 怜士</u>**, 王イントウ. “格子暗号CRYSTALS-KYBERとSABERに対する鍵再利用攻撃の提案", 2021年 暗号と情報セキュリティシンポジウム (SCIS), 2021.
+
 1. **<u>岡田 怜士</u>**, 王イントウ, 髙木 剛, “格子暗号NewHopeに対する鍵不一致攻撃の改良", 2020年 暗号と情報セキュリティシンポジウム (SCIS), 2020.
 
 
