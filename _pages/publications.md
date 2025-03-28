@@ -59,18 +59,26 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 
 
 ## List of papers (no peer-reviewed):
-* 藤原 良樹, **<u>岡田 怜士</u>**, 伊藤 優子, 吉倉 昌利, 久住 理紗, 満永 拓邦, “デジタルビジネスモデルに基づく自治体活動のDX実現および改善に関する検討”, 情報処理学会 第83回全国大会, オンライン, 2021.
-* **<u>岡田 怜士</u>**, 宮本 大輔, 関谷 勇司, 中村 宏, “Zigbeeの間接通信を利用したLDoS攻撃とその対策の提案” 電子情報通信学会 ネットワーク研究会, 2021.
-* **<u>岡田 怜士</u>**, 王イントウ. “格子暗号CRYSTALS-KYBERとSABERに対する鍵再利用攻撃の提案", 2021年 暗号と情報セキュリティシンポジウム (SCIS), 2021.
-* **<u>岡田 怜士</u>**, 王イントウ, 髙木 剛, “格子暗号NewHopeに対する鍵不一致攻撃の改良", 2020年 暗号と情報セキュリティシンポジウム (SCIS), 2020.
+1.藤原 良樹, **<u>岡田 怜士</u>**, 伊藤 優子, 吉倉 昌利, 久住 理紗, 満永 拓邦, “デジタルビジネスモデルに基づく自治体活動のDX実現および改善に関する検討”, 情報処理学会 第83回全国大会, オンライン, 2021.
+
+1. **<u>岡田 怜士</u>**, 宮本 大輔, 関谷 勇司, 中村 宏, “Zigbeeの間接通信を利用したLDoS攻撃とその対策の提案” 電子情報通信学会 ネットワーク研究会, 2021.
+
+1. **<u>岡田 怜士</u>**, 王イントウ. “格子暗号CRYSTALS-KYBERとSABERに対する鍵再利用攻撃の提案", 2021年 暗号と情報セキュリティシンポジウム (SCIS), 2021.
+
+1. **<u>岡田 怜士</u>**, 王イントウ, 髙木 剛, “格子暗号NewHopeに対する鍵不一致攻撃の改良", 2020年 暗号と情報セキュリティシンポジウム (SCIS), 2020.
 
 ## Books:
-* Saho Kobayashi, **<u>Satoshi Okada</u>**, Yu Asabe, Takuho Mitsunaga "[はじめて学ぶバイナリ解析 不正なコードからコンピュータを守るサイバーセキュリティ技術](https://www.amazon.co.jp/dp/B084R85269/ref=cm_sw_r_cp_awdb_c_zz0tEb5B5D8M4)", Impress R&D, ISBN: 9784844378495, 2020.
+1. Saho Kobayashi, **<u>Satoshi Okada</u>**, Yu Asabe, Takuho Mitsunaga "[はじめて学ぶバイナリ解析 不正なコードからコンピュータを守るサイバーセキュリティ技術](https://www.amazon.co.jp/dp/B084R85269/ref=cm_sw_r_cp_awdb_c_zz0tEb5B5D8M4)", Impress R&D, ISBN: 9784844378495, 2020.
 
 
 ## Talks:
-* **<u>Satoshi Okada</u>**, "Advanced Security Operation Technologies in the era of cyber-physical convergence", [6th Franco-Japanese Cybersecurity Workshop](https://project.inria.fr/FranceJapanICST/save-the-date-6th-franco-japanese-cybersecurity-workshop-online-april-20-22/), Apr. 2022. 
-* **<u>岡田 怜士</u>**, 招待公演 "Misuseシナリオにおける格子暗号への秘密鍵・乱数復元攻撃", [共同利用・ワークショップ「新世代暗号の設計・評価」](https://joint.imi.kyushu-u.ac.jp/post-1230/), 九州大学マス・フォア・インダストリ研究所 IMI, Oct. 2021.
+1. **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "AI Governance with Multistakeholder for Safer AI Society," 36th Annual FIRST (Forum of Incident Response and Security Teams) Conference, June, 2024.
+
+1. Takuho Mitsunaga, Koki Watarai, **<u>Satoshi Okada</u>**, Ruka Negishi, "CloudSec Navigator," Black Hat Asia 2024 Arsenal, May, 2024.
+
+1. **<u>Satoshi Okada</u>**, "Advanced Security Operation Technologies in the era of cyber-physical convergence", [6th Franco-Japanese Cybersecurity Workshop](https://project.inria.fr/FranceJapanICST/save-the-date-6th-franco-japanese-cybersecurity-workshop-online-april-20-22/), Apr. 2022. 
+
+1. **<u>岡田 怜士</u>**, 招待公演 "Misuseシナリオにおける格子暗号への秘密鍵・乱数復元攻撃", [共同利用・ワークショップ「新世代暗号の設計・評価」](https://joint.imi.kyushu-u.ac.jp/post-1230/), 九州大学マス・フォア・インダストリ研究所 IMI, Oct. 2021.
 
 ## Others
-* JNSA ([Japan Network Security Association](https://www.jnsa.org/)) e-zine ("[Blackhat USA 2022/DEF CON 30](https://www.jnsa.org/aboutus/jnsaml/ml_bk250.html)"), Nov. 2022.
+1. JNSA ([Japan Network Security Association](https://www.jnsa.org/)) e-zine ("[Blackhat USA 2022/DEF CON 30](https://www.jnsa.org/aboutus/jnsaml/ml_bk250.html)"), Nov. 2022.
