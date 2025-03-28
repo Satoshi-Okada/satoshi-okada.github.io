@@ -8,16 +8,31 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.co.jp/citations?hl=ja&user=064WyvEAAAAJ">my Google Scholar profile</a>.
 
 ## Journals (Peer-reviewed)
-1. Satoshi Okada, Yosuke Katano, Yukihiro Kozai, Takuho Mitsunaga, "Predicting and Visualizing Lateral Movements Based on ATT&CK and Quantification Theory Type 3," Journal of Cases on Information Technology (JCIT), 26, pp.1-14, 2024
+1. **<u>Satoshi Okada</u>**, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc, Hiroshi Nakamura, "Xai-driven black-box adversarial attacks on network intrusion detectors," International Journal of Information Security, 24, 2025
+  
+1. **<u>Satoshi Okada</u>**, Yosuke Katano, Yukihiro Kozai, Takuho Mitsunaga, "Predicting and Visualizing Lateral Movements Based on ATT&CK and Quantification Theory Type 3," Journal of Cases on Information Technology (JCIT), 26, pp.1-14, 2024
+  
 1. Masaki Kuwano, Momoka Okuma, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "The Attacker Might Do Next : ATT&CK Behavior Forecasting by Attacker-based Collaborative Filtering and Graph Databases," Journal of Information Processing 31, pp.802-811, 2023.
+
 1. **<u>Satoshi Okada</u>**, Kunio Akashi, Daisuke Miyamoto, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, "Memory-saving LDoS Attacker Detection Algorithms in Zigbee Network", Journal of Information Processing 31, pp.537-549, 2023.
+
 1. **<u>Satoshi Okada</u>**, Nobuho Hashimoto, Takuho Mitsuanga, "Efficient Matching Algorithms between Logs and Indicators for Automatic Incident Response System," Journal of Information Processing 31, pp.279-287, 2023.
 
 
 ## International Conferences (Peer-reviewed)
-1. Momoka Okuma, Koki Watarai, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Automated Mapping Method for Sysmon Logs to ATT&CK Techniques by Leveraging Atomic Red Team", 2022 5th International Conference on Signal Processing and Information Security (ICSPIS). IEEE, to appear, 2023.
+1. Junichiro Ando, Satoshi Okada, Takuho Mitsunaga, "Jailbreak Attack on a Multi-Agent LLM Defense System," International Congress on Information and Communication Technology, to appear, 2025.
 
-1. Konosuke Tamamura, Shun Sakai, Koki Watarai, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Detection of XSS Attacks with One Class SVM Using TF-IDF and Devising a Vectorized Vocabulary," 2023 IEEE International Conference on Computing (ICOCO), IEEE, to appear, 2023.
+1. Rei Watanabe, Satoshi Okada, Koki Watarai, Takuho Mitsunaga, "Cloud SecNavigator: RAG Approach to Bridge Gaps and Strengthen Cloud Security Practices with RAGAS Assessment," 2024 International Conference on Engineering and Emerging Technologies (ICEET), IEEE, pp. 1-6, 2024.
+
+1. **<u>Satoshi Okada</u>**, Houda Jmila, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Gregory Blanc, Hiroshi Nakamura, "XAI-driven Adversarial Attacks on Network Intrusion Detectors," Proceedings of the 2024 European Interdisciplinary Cybersecurity Conference, ACM, pp. 65-73, 2024.
+
+1. **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "An Improved Technique for Generating Effective Noises of Adversarial Camera Stickers," International Congress on Information and Communication Technology, Springer Nature Singapore, pp. 289-300, 2024.
+
+1. Taisei Matsumura, **<u>Satoshi Okada</u>**, Koki Watarai, Takuho Mitsunaga, "Explainable Anomaly Detection Method Using LLM Embeddings Model with SHAP," 7th International Conference on Signal Processing and Information Security (ICSPIS), IEEE, pp.1-5, 2024.
+
+1. Momoka Okuma, Koki Watarai, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Automated Mapping Method for Sysmon Logs to ATT&CK Techniques by Leveraging Atomic Red Team", 2022 5th International Conference on Signal Processing and Information Security (ICSPIS). IEEE, pp.104-109, 2023.
+
+1. Konosuke Tamamura, Shun Sakai, Koki Watarai, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Detection of XSS Attacks with One Class SVM Using TF-IDF and Devising a Vectorized Vocabulary," 2023 IEEE International Conference on Computing (ICOCO), IEEE, pp.35-40, 2023.
 
 1. Koshi Ishide, **<u>Satoshi Okada</u>**, Mariko Fujimoto, Takuho Mitsunaga, "ML Detection Method for Malicious Operation in Hybrid Zero Trust Architecture," 2022 IEEE International Conference on Computing (ICOCO), IEEE, pp.264-269, 2022.
 
