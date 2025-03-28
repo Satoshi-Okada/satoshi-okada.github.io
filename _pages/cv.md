@@ -47,13 +47,18 @@ Skills
   
 Awards
 ======
-* 辻井重男セキュリティ論文賞 ([link](https://www.jssm.net/news/7444/)), Aug. 2023.
-* IEEE International Conference on Computing (ICOCO 2022) Best Paper Award ([press](https://www.toyo.ac.jp/news/academics/faculty/iniad/20221205_mitsunaga/), [certificate](https://drive.google.com/file/d/1pLn_fmFZiTvTeLx4KKrOQIeks4-obpdn/view?usp=sharing)), Nov. 2022.
-* The Dean's Award of the Graduate School of Information Science and Technology, The University of Tokyo 2021 ([link](https://www.i.u-tokyo.ac.jp/news/topics/2022/202203291996_e.shtml), [certificate](https://drive.google.com/file/d/1eoMm52v1lcMn1rp00no2AJo7eglNjwYk/view?usp=sharing)), Mar. 2022.
-* IEEE International Conference on Computing (ICOCO 2021) Best Paper Award ([certificate](https://drive.google.com/file/d/1oHUZronXfBRfpRGQ9DjQTKgyU84iZ8Wp/view?usp=sharing)), Nov. 2021.
+1. The Dean's Award of the Graduate School of Information Science and Technology, The University of Tokyo 2024 ([link](https://www.i.u-tokyo.ac.jp/news/topics/2025/202503242546_e.shtml), Mar. 2025.
+
+1. 辻井重男セキュリティ論文賞 ([link](https://www.jssm.net/news/7444/)), Aug. 2023.
+
+1. IEEE International Conference on Computing (ICOCO 2022) Best Paper Award ([press](https://www.toyo.ac.jp/news/academics/faculty/iniad/20221205_mitsunaga/), [certificate](https://drive.google.com/file/d/1pLn_fmFZiTvTeLx4KKrOQIeks4-obpdn/view?usp=sharing)), Nov. 2022.
+
+1. The Dean's Award of the Graduate School of Information Science and Technology, The University of Tokyo 2021 ([link](https://www.i.u-tokyo.ac.jp/news/topics/2022/202203291996_e.shtml), Mar. 2022.
+
+1. IEEE International Conference on Computing (ICOCO 2021) Best Paper Award ([certificate](https://drive.google.com/file/d/1oHUZronXfBRfpRGQ9DjQTKgyU84iZ8Wp/view?usp=sharing)), Nov. 2021.
 
 Scholarships and Grants
 ======
-* JSPS Overseas Challenge Program for Young Researchers ([link](https://www.jsps.go.jp/english/e-abc/index.html)) (Apr. 2023 - Sep. 2023)
+1. JSPS Overseas Challenge Program for Young Researchers ([link](https://www.jsps.go.jp/english/e-abc/index.html)) (Apr. 2023 - Sep. 2023)
 
 ※Google Docs version is [here](https://docs.google.com/document/d/1Mvuw-wWkRhpoLjNGpZQyfvHkmiwb60h2BmJndrPycsM/edit?usp=sharing).
