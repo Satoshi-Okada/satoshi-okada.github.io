@@ -20,6 +20,10 @@ You can also find my articles on <a href="https://scholar.google.co.jp/citations
 
 
 ## International Conferences (Peer-reviewed)
+1. **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Practical Adversarial Attacks on Industrial AI: Evaluating Camera Sticker Techniques with MVTec AD," Proceedings of the IEEE International Conference on Omni-layer Intelligent Systems (COINS), to appear, 2025.
+  
+1. **<u>Satoshi Okada</u>**, Kunio Akashi, Takuho Mitsunaga, Yuji Sekiya, Hideki Takase, Hiroshi Nakamura, "Stealthy Physical Adversarial Attacks on Industrial AI Vision Systems for Factory Automation," Proceedings of International Conference on Communication, Computing, Networking, and Control in Cyber-Physical Systems, to appear, 2025.
+   
 1. Junichiro Ando, **<u>Satoshi Okada</u>**, Takuho Mitsunaga, "Jailbreak Attack on a Multi-Agent LLM Defense System," International Congress on Information and Communication Technology, to appear, 2025.
 
 1. Rei Watanabe, **<u>Satoshi Okada</u>**, Koki Watarai, Takuho Mitsunaga, "Cloud SecNavigator: RAG Approach to Bridge Gaps and Strengthen Cloud Security Practices with RAGAS Assessment," 2024 International Conference on Engineering and Emerging Technologies (ICEET), IEEE, pp. 1-6, 2024.
